@@ -61,7 +61,7 @@ one_data = {
     'geo_api_info':
     '{"type":"complete","position":{"Q":39.953412814671,"R":116.34808729383701,"lng":116.348087,"lat":39.953413},"location_type":"html5","message":"Get geolocation success.Convert Success.Get address success.","accuracy":33,"isConverted":true,"status":1,"addressComponent":{"citycode":"010","adcode":"110108","businessAreas":[{"name":"\u5317\u4E0B\u5173","id":"110108","location":{"Q":39.955976,"R":116.33873,"lng":116.33873,"lat":39.955976}},{"name":"\u897F\u76F4\u95E8","id":"110102","location":{"Q":39.942856,"R":116.34666099999998,"lng":116.346661,"lat":39.942856}},{"name":"\u7682\u541B\u5E99","id":"110108","location":{"Q":39.960782,"R":116.339629,"lng":116.339629,"lat":39.960782}}],"neighborhoodType":"","neighborhood":"","building":"","buildingType":"","street":"\u4EA4\u5927\u4E1C\u8DEF","streetNumber":"10\u53F7","country":"\u4E2D\u56FD","province":"\u5317\u4EAC\u5E02","city":"","district":"\u6D77\u6DC0\u533A","township":"\u5317\u4E0B\u5173\u8857\u9053"},"formattedAddress":"\u5317\u4EAC\u5E02\u6D77\u6DC0\u533A\u5317\u4E0B\u5173\u8857\u9053\u4EA4\u5927\u4E1C\u8DEF10\u53F7\u5317\u4EAC\u4EA4\u901A\u5927\u5B66\u9644\u5C5E\u5C0F\u5B66(\u4E1C\u6821\u533A)","roads":[],"crosses":[],"pois":[],"info":"SUCCESS"}',
     'created': '1599269518',
-    'sfzx': '1',
+    'sfzx': '0',
     'sfjcwhry': '0',
     'sfcyglq': '0',
     'gllx': '',
